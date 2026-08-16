@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+
+# Pytest cache
+.pytest_cache/
+
+# Databases
+*.db
+*.sqlite3
+instance/
+
+# Environment variables
+.env
+
+# Editor/OS
+.vscode/
+.DS_Store
